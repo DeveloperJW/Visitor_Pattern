@@ -14,8 +14,8 @@ The element supplies itself as an argument to this operation to let the visitor 
 state, if necessary. 
 
 In this project,
-Element: Employee.java;
-Concret Element:ManagerEmployee.java; GeneralEmployee.java;
-Visitor: Department.java;
-Concret Visitor: AccountingDept.java; HRDept.java;
-Client: Main.java;
+- Element: Employee.java;
+- Concret Element:ManagerEmployee.java; GeneralEmployee.java;
+- Visitor: Department.java;
+- Concret Visitor: AccountingDept.java; HRDept.java;
+- Client: Main.java;
